@@ -12,7 +12,7 @@ Este repositório está sendo criado para adicionarmos  o  código depurado e co
 📌 Listar tarefas organizadas por status </h2>
 
 
-  🚀 Como se deve utilizar?
+  🚀 Como se deve utilizar ?
 
 Execute o programa no console.
 
@@ -33,3 +33,17 @@ No terminal, navegue até a pasta src (onde está o pacote LuisAtividade) e digi
 javac LuisAtividade/*.java
 
 Isso vai gerar os arquivos .class dentro da pasta.
+
+🗑️ Como excluir ?
+
+Para apagar apenas os arquivos compilados (.class):
+
+find . -name "*.class" -delete   # Linux/Mac
+del /S *.class                   # Windows (PowerShell ou CMD)
+
+Para excluir o projeto inteiro, basta apagar a pasta LuisAtividade/
+
+<h5>
+Vale ressaltar que foram ultilizados diversos comentários estruturados para explicar e melhorar a visibilidade e compreensão do código e seu fluxo
+ 
+</h5>
