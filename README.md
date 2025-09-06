@@ -18,11 +18,18 @@ Execute o programa no console.
 
 Escolha uma das opções exibidas no menu:
 
-1 → Adicionar tarefa
+1 → Adicionar tarefa ✔️
 
-2 → Mover tarefa (TO-DO / DOING / DONE)
+2 → Mover tarefa (TO-DO / DOING / DONE) 🔁
 
-3 → Listar tarefas
+3 → Listar tarefas 🪧
 
-4 → Sair
+4 → Sair ❌
 
+⚙️ Como compilar ?
+
+No terminal, navegue até a pasta src (onde está o pacote LuisAtividade) e digite:
+
+javac LuisAtividade/*.java
+
+Isso vai gerar os arquivos .class dentro da pasta.
