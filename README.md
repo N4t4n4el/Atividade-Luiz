@@ -2,17 +2,17 @@
 Este repositório está sendo criado para adicionarmos  o  código depurado e comentado, além de possuir o Java.doc.
 
 
-Oque este código faz?💡❕
+ <h2>Oque este código faz?💡❕
 
 
 ✅ Criar tarefas
 
 🔄 Mover tarefas entre status (TO-DO, DOING, DONE)
 
-📌 Listar tarefas organizadas por status
+📌 Listar tarefas organizadas por status </h2>
 
 
- <h1> 🚀 Como se deve utilizar?
+  🚀 Como se deve utilizar?
 
 Execute o programa no console.
 
@@ -25,4 +25,4 @@ Escolha uma das opções exibidas no menu:
 3 → Listar tarefas
 
 4 → Sair
-</h1>
+
